@@ -1,0 +1,3 @@
+[submodule "semantic-css-helpers"]
+	path = semantic-css-helpers
+	url = git@github.com:NickWoodhams/semantic-css-helpers.git
